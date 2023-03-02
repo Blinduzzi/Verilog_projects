@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.3 (64-bit)
+# SW Build 3173277 on Wed Apr  7 05:07:49 MDT 2021
+# IP Build 3174024 on Wed Apr  7 23:42:35 MDT 2021
+# Start of session at: Mon Apr 11 22:04:26 2022
+# Process ID: 41184
+# Current directory: D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/test_TOPmare_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/FACULTATE -notrace

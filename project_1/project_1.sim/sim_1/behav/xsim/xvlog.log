@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.srcs/sources_1/new/COMP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module COMP
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.srcs/sources_1/new/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.srcs/sources_1/new/TOPmare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOPmare
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.srcs/sources_1/new/TOPmic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOPmic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FACULTATE YETI/Anul 2/Semestrul 2/CID/BOZO/project_1/project_1.srcs/sim_1/new/test_TOPmare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_TOPmare
