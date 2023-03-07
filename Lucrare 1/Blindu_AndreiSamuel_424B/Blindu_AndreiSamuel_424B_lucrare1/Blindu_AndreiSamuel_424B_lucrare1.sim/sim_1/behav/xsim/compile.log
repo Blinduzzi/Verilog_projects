@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/DMUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/MUXX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUXX
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/XORO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module XORO
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/sumator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sumator
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sim_1/new/test_TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_TOP

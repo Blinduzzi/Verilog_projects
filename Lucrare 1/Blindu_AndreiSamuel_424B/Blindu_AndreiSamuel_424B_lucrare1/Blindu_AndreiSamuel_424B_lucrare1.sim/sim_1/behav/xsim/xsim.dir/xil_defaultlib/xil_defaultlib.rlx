@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sim_1/new/test_TOP.v,1649770996,verilog,,,,test_TOP,,,,,,,,
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/DMUX.v,1649767512,verilog,,/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/MUX.v,,DMUX,,,,,,,,
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/MUX.v,1649767665,verilog,,/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/MUXX.v,,MUX,,,,,,,,
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/MUXX.v,1649768990,verilog,,/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/TOP.v,,MUXX,,,,,,,,
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/TOP.v,1649769138,verilog,,/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/XORO.v,,TOP,,,,,,,,
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/XORO.v,1649766630,verilog,,/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/comparator.v,,XORO,,,,,,,,
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/comparator.v,1649767158,verilog,,/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/sumator.v,,comparator,,,,,,,,
+/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sources_1/new/sumator.v,1649766558,verilog,,/home/student/Desktop/Blindu_AndreiSamuel_424B/Blindu_AndreiSamuel_424B_lucrare1/Blindu_AndreiSamuel_424B_lucrare1.srcs/sim_1/new/test_TOP.v,,sumator,,,,,,,,
